@@ -1,0 +1,19 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #fff;
+}
+
+.video-box {
+  border: 3px solid #38b0ff;
+  border-radius: 15px;
+  padding: 20px;
+  margin-bottom: 20px;
+  font-weight: 600;
+  font-size: 20px;
+  transition: background 0.3s ease;
+}
+
+.video-box:hover {
+  background-color: #cbe5f5;
+  cursor: pointer;
+}
